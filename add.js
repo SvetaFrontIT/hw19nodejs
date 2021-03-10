@@ -1,7 +1,4 @@
-const calculator = require('./calculator');
-const a = calculator.currentNum;
-console.log(a);
-const sum = function(b) {
+const sum = function(a, b) {
     result = a + b;
     return result;
 }
